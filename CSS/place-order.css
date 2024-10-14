@@ -1,0 +1,14 @@
+.success-container {
+    height: 100vh;
+    text-align: center;
+    color: rgb(32, 32, 32);
+}
+
+.thankyou {
+    font-size: 15px;
+}
+
+.process-complete {
+    font-size: 13px;
+    margin-top: 15px;
+}

@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+* {
+    margin: 0px;
+    font-family: 'Roboto';
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-sizing: border-box;
+    height: 64px;
+    padding: 14px;
+    z-index: 1;
+}
+
+.back-arrow,
+.hamburger-menu,
+.cart-img  {
+    width: 26px;
+}
+
+.hidden-container{
+    display: none;
+}
+
+.hidden-content{
+    color: rgb(32, 32, 32);
+    text-decoration: none;
+}
+
+.hidden-img-container{
+    display: none;
+}
+
+.main-shop {
+    color: rgb(32, 32, 32);
+    font-weight: 600;
+    font-size: 17px;
+    text-decoration: none;
+    letter-spacing: 6px;
+}
+
+.anchor-class {
+    text-decoration: none;
+    color: inherit;
+}
+
+.footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.footer1 {
+    font-size: 13px;
+    color: grey;
+    margin-bottom: 10px;
+}
+
+.footer2 {
+    width: 110px;
+    height: 25px;
+    font-size: 12px;
+    text-align: center;
+    padding-top: 12px;
+    background-color: rgb(32, 32, 32);
+    color: #fff;
+}
+
+.checkout-button,
+.place-order-button,
+.add-to-cart-button {
+    display: block;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    height: 64px;
+    color: #fff;
+    font-size: 15px;
+    font-weight: 500;
+    font-family: Ubuntu Sans;
+    background-color: rgb(23, 44, 80);
+    z-index: 2;
+}
