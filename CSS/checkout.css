@@ -285,10 +285,17 @@
     .order-button {
         margin-top: 25px;
         display: block;
+        font-family: sans-serif;
         width: 8rem;
+        font-size: 14px;
         padding: 8px 15px;
         text-align: center;
         border: 2px solid black;
+    }
+
+    .order-button:active{
+        background-color: black;
+        color: #fff;
     }
 
     .order-btn{
