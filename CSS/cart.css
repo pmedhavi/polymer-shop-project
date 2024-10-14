@@ -220,6 +220,13 @@
         color: black;
         font-weight: 400;
     }
+    .checkout:active{
+        background-color: black;
+        color: #fff;
+    }
+    .checkout a:active{
+        color: #fff;
+    }
 
     .checkout-button{
         display: none;
