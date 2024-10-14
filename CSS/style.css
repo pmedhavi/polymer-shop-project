@@ -28,6 +28,7 @@ header {
 .hidden-content{
     color: rgb(32, 32, 32);
     text-decoration: none;
+    font-size: 13px;
 }
 
 .hidden-img-container{
