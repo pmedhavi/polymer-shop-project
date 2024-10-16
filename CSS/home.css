@@ -64,6 +64,12 @@
         margin: 20px 20px 30px 10px;
     }
 
+
+    .hidden-content:active{
+        border-bottom: 2px solid black;
+    }
+
+
     .hamburger-menu{
         display:none;
     }
