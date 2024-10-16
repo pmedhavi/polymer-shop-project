@@ -8,7 +8,11 @@
 .hidden-ladies-outerwear,
 .hidden-mens-tshirt,
 .hidden-ladies-tshirt {
-    margin: 20px 20px 30px 10px;
+    margin: 20px 20px 10px 10px;
+}
+
+.hidden-content:active{
+    border-bottom: 2px solid black;
 }
 
 .hamburger-menu {
@@ -21,6 +25,7 @@
 }
 
 .hidden-img-container {
+    margin-top: 10px;
     display: flex;
     width: 100%;
     height: 34vh;
