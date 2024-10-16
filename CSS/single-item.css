@@ -40,12 +40,12 @@
     margin: 0 auto;
 }
 
-.single-item-details {
+/* .single-item-details {
     max-width: 50%;
-}
+} */
 
 .single-item-details {
-    width: 50%;
+    max-width: 50%;
     margin-top: 32px 24px 32px 24px;
 }
 
@@ -120,7 +120,7 @@
     color: rgb(117, 117, 117);
     font-size: 13px;
     font-weight: 400;
-    line-height: 1.2rem;
+    line-height: 20px;
     letter-spacing: 0.5px;
 }
 
@@ -280,7 +280,7 @@
         color: rgb(117, 117, 117);
         font-size: 13px;
         font-weight: 400;
-        line-height: 1.2rem;
+        line-height: 20px;
         letter-spacing: 0.5px;
     }
 
