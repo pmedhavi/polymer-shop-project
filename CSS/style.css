@@ -17,21 +17,21 @@ header {
 
 .back-arrow,
 .hamburger-menu,
-.cart-img  {
+.cart-img {
     width: 26px;
 }
 
-.hidden-container{
+.hidden-container {
     display: none;
 }
 
-.hidden-content{
+.hidden-content {
     color: rgb(32, 32, 32);
     text-decoration: none;
     font-size: 13px;
 }
 
-.hidden-img-container{
+.hidden-img-container {
     display: none;
 }
 
@@ -85,5 +85,4 @@ header {
     font-weight: 500;
     font-family: Ubuntu Sans;
     background-color: rgb(23, 44, 80);
-    z-index: 2;
 }
