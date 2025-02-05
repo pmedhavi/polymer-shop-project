@@ -20,6 +20,7 @@
 }
 
 
+
 .single-item-sub-container {
     display: flex;
     flex-direction: row;
@@ -40,9 +41,6 @@
     margin: 0 auto;
 }
 
-/* .single-item-details {
-    max-width: 50%;
-} */
 
 .single-item-details {
     max-width: 50%;

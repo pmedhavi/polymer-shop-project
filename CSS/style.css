@@ -16,7 +16,7 @@ header {
 }
 
 .back-arrow,
-.hamburger-menu,
+.menu,
 .cart-img {
     width: 26px;
 }
@@ -75,7 +75,7 @@ header {
 .checkout-button,
 .place-order-button,
 .add-to-cart-button {
-    display: block;
+    display:block;
     position: fixed;
     bottom: 0px;
     width: 100%;
@@ -84,5 +84,5 @@ header {
     font-size: 15px;
     font-weight: 500;
     font-family: Ubuntu Sans;
-    background-color: rgb(23, 44, 80);
+    background-color: rgb(23,44,80);
 }

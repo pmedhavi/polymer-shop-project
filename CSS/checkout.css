@@ -1,6 +1,6 @@
 .main-container {
     height: 175vh;
-    width: 90%;
+    width: 80%;
     padding: 15px;
 }
 
@@ -19,6 +19,7 @@
     font-size: 13px
 }
 
+
 .main-container h2 {
     margin-bottom: 15px;
     color: black;
@@ -30,7 +31,7 @@
     position: relative;
     display: flex;
     align-items: center;
-    height: 65px;
+    height: 80px;
 }
 
 .informtion {
@@ -58,6 +59,7 @@
     top: -0.15px;
     color: black;
 }
+
 
 .account-info {
     margin-top: 15px;
