@@ -15,7 +15,7 @@ header {
     z-index: 1;
 }
 
-.back-arrow,
+
 .menu,
 .cart-img {
     width: 26px;
@@ -43,10 +43,6 @@ header {
     letter-spacing: 6px;
 }
 
-.anchor-class {
-    text-decoration: none;
-    color: inherit;
-}
 
 .footer {
     display: flex;

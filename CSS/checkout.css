@@ -226,9 +226,6 @@
     margin-right: 65x;
 }
 
-.demo-button {
-    display: none;
-}
 
 .billing label {
     margin-left: 15px;
@@ -311,5 +308,6 @@
         display: none;
     }
 
+    
     
 }
